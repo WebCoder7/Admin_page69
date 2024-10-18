@@ -1,0 +1,59 @@
+{
+  "organization": [
+    {
+      "key": 67,
+      "companyName": "Najot Ta'lim",
+      "inn": "4321568",
+      "status": "1",
+      "regionId": "1",
+      "regionName": "Toshkent",
+      "address": "Chilonzor 9kv",
+      "createdAt": "2020-10-10",
+      "id": "2"
+    },
+    {
+      "key": 61,
+      "companyName": "INHA",
+      "inn": "12345678",
+      "status": "3",
+      "regionId": "2",
+      "regionName": "Farg'ona viloyati",
+      "address": "Mirzo Ulugbek, ",
+      "createdAt": "2024-10-09",
+      "id": "00e6"
+    },
+    {
+      "id": "8f19",
+      "key": 59,
+      "companyName": "TATU",
+      "inn": "12345678",
+      "status": "1",
+      "regionId": "1",
+      "regionName": "Toshkent viloyati",
+      "address": "Oybek",
+      "createdAt": null
+    }
+  ],
+  "users": [
+    {
+      "key": 30,
+      "id": "3",
+      "name": "ali",
+      "email": "ali@gmail.com",
+      "number": "+998933091223",
+      "status": true,
+      "job": "web",
+      "address": "USA"
+    },
+    {
+      "key": 55,
+      "id": "7",
+      "name": "vali",
+      "email": "vali@gmail.com",
+      "number": "+998944189112",
+      "status": true,
+      "job": "prm",
+      "address": "USA"
+    }
+  ]
+}
